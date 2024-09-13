@@ -1,0 +1,2 @@
+无固定ip机器，定时添加aliyun dns解析记录
+修改config中解析类型即可
